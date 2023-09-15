@@ -1,0 +1,29 @@
+body {
+    background-color: #5CA4A9;
+}
+
+/*Container for the game area*/
+.game-container {
+    display: flex;
+    margin-left: 25%;
+    width: 50%;
+    height: 500px;
+    background-color: #9BC1BC;
+    border: solid 3px #E6EBE0;
+    border-radius: 10px;
+}
+/* Container for coloured shapes to allow for them to be centered using flex-box */
+.shape-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 5px;
+    margin: auto;
+}
+
+.colour-shapes {
+    width: 150px;
+    height: 150px;
+    border: solid;
+    border-radius: 50%;
+}
