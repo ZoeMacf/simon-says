@@ -24,6 +24,31 @@ body {
 .colour-shapes {
     width: 150px;
     height: 150px;
-    border: solid;
+    border: solid 5px whitesmoke;
     border-radius: 50%;
+}
+
+/* separate colours are given to each of the shapes */
+#shape1 {
+    background-color:deeppink;
+}
+
+#shape2 {
+    background-color:cornflowerblue;
+}
+
+#shape3 {
+    background-color:goldenrod;
+}
+
+#shape4 {
+    background-color:greenyellow;
+}
+
+#shape5 {
+    background-color:khaki
+}
+
+#shape6 {
+    background-color:yellow;
 }
