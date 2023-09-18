@@ -27,17 +27,22 @@
 
 
 
-## User Experience (UX)
+## User Experience (UX) 
 
 ### Initial Discussion
+
+This Simon Says game allows the user to test their memory skills by repeating a pattern of colours.
 
 
 ### User Stories
 
 #### First Time Visitor Goals
 
+- I want to be able to view the rules of the game. 
+- I want to be able to begin the game easily with no delay. 
+- I would like to be able to save my score. 
 #### Returning Visitor Goals
-
+- I want to be able to view my previous scores. 
 
 #### Frequent Visitor Goals
 
