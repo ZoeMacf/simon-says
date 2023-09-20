@@ -52,3 +52,7 @@ body {
 #shape6 {
     background-color:yellow;
 }
+
+.active{
+    border: solid 3px black;
+}
